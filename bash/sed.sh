@@ -1,4 +1,4 @@
-### If you have tsv file, this script will add HTML tags to this file for generating to as an page.
+### If you have tsv file, this script will add HTML tags to this file for generating to as a page.
 ### Example:   sed.sh test.tsv
 
 
