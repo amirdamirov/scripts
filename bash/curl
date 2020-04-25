@@ -1,0 +1,2 @@
+# curl requests to both pages of our website and view how long it takes to come back
+for i in {1..15};do curl -s -w "%{time_total}\n" -o /dev/null http://34.107.195.155/page-2.html; done
